@@ -17,7 +17,20 @@
 <h1>Used Language</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeteoRiver&layout=compact)](https://github.com/MetoeRiver/github-readme-stats)
+
+
+<h1>Studing Now</h1>
+ <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logoColor=white"/>
+ 
+<h1>used before</h1>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white"/>
+ <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+
 </div>
+
+
 <!--
 **MeteoRiver/MeteoRiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
