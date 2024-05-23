@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeteoRiver&layout=compact)](https://github.com/MetoeRiver/github-readme-stats)
 
 
-<h1>Studing Now</h1>
+<h1>Studying Now</h1>
  <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logoColor=white"/>
  
 <h1>used before</h1>
