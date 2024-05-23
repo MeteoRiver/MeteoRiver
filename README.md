@@ -1,6 +1,19 @@
 ## Hi there 👋
 
 
+
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=MeteoRiver)](https://solved.ac/MeteoRiver)<br/>
+
+
+
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeteoRiver&layout=compact)](https://github.com/MetoeRiver/github-readme-stats)
 
 <!--
