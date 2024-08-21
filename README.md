@@ -21,6 +21,10 @@
 
 <h1>Studying Now</h1>
  <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img src=""/>
+ <img src=""/>
  
 <h1>used before</h1>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
