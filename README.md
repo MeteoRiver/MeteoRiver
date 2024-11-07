@@ -7,19 +7,19 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
     <div>
-        <h2>🔑Program Solving🔑</h2>
+        <h3>🔑Program Solving🔑</h3>
         <a href="https://solved.ac/dmseordl">
             <img src="http://mazassumnida.wtf/api/generate_badge?boj=dmseordl" alt="Solved.ac Profile">
         </a>
     </div>
     <div>
-        <h2>🖥️Used Language🖥️</h2>
+        <h3>🖥️Used Language🖥️</h3>
         <a href="https://github.com/MetoeRiver/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeteoRiver&layout=compact" alt="Top Languages">
         </a>
     </div>
     <div>
-        <h2>📚My Github Stats📚</h2>
+        <h3>📚My Github Stats📚</h3>
         <a href="https://github.com/MetoeRiver/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=MeteoRiver&theme=tokyonight" alt="Github Stats">
         </a>
@@ -30,7 +30,7 @@
 
 
 <h1>🛠️SKILLS🛠️</h1>
-<h2>⚡Tech stacks⚡</h2>
+<h3>⚡Tech stacks⚡</h3>
  <img src="https://img.shields.io/badge/JAVA-744E3B?style=for-the-badge"/>
 
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -50,7 +50,7 @@
  <img src="https://img.shields.io/badge/navercloud-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 
 
-<h2>😀used before😀</h2>
+<h3>😀used before😀</h3>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/>
