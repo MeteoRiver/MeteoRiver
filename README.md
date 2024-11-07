@@ -20,7 +20,7 @@
 
 <h1>u</h1>
 <h2>Tech stacks</h2>
- <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JAVA-744E3B?style=for-the-badge"/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
