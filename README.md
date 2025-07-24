@@ -7,10 +7,10 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
     <div>
-        <h3>🔑Program Solving🔑</h3>
+        <!--<h3>🔑Program Solving🔑</h3>
         <a href="https://solved.ac/dmseordl">
             <img src="http://mazassumnida.wtf/api/generate_badge?boj=dmseordl" alt="Solved.ac Profile">
-        </a>
+        </a>-->
     </div>
     <div>
         <h3>🖥️Used Language🖥️</h3>
