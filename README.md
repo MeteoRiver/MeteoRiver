@@ -1,6 +1,7 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=MeteoRiver&fontAlign=50&stroke=00FF10)
+</br>[![](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FMeteoRiver?color=gray&label=&size=small)](https://myhits.vercel.app)
 
 # My Blog
 
